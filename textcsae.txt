@@ -1,0 +1,35 @@
+             Important Questions For All Programming Languages
+
+                        Cases Of Text
+                        ----------------
+1.camelCase :
+In CamelCase, each word in a phrase is capitalized, and there are no spaces between words. The first word starts with a lowercase letter, and each subsequent word begins with an uppercase letter, like "camelCaseExample."
+Use-
+Java: CamelCase and PascalCase are commonly used in Java for variable and method names. PascalCase is often used for class names.
+C#: C# also uses CamelCase and PascalCase for variable and method names, with PascalCase for class names.
+JavaScript: CamelCase is prevalent in JavaScript for variable and function names, while PascalCase is often used for constructor functions.
+2.PascaleCase :
+Similar to CamelCase, in PascalCase, each word in a phrase is capitalized, but it starts with an uppercase letter. For example, "PascalCaseExample."
+Use-
+3.kebab-case :
+In kebab-case, words are separated by hyphens ("-"). It's typically used in URLs or filenames, like "kebab-case-example.”
+Use-
+HTML/CSS: Kebab-case is commonly used in HTML and CSS for naming classes, IDs, and attributes.
+URLs: Kebab-case is also used in URLs to separate words in web addresses.
+
+
+4.snake_case :
+In snake_case, words are separated by underscores ("_"). It's often used in variable and function names in some
+programming languages, like "snake_case_example."
+Use-
+Python: Python uses snake_case for variable and function names. Class names typically use PascalCase.
+Ruby: Ruby commonly uses snake_case for variable and method names.
+5.Title Case :
+In Title Case, the first letter of each word is capitalized, and the rest are in lowercase, like "Title Case Example."
+Use-
+Natural Language Processing: Title case and sentence case are used in NLP and text processing tasks to format text or titles.
+6.Sentence case :
+In sentence case, only the first letter of the first word in a sentence is capitalized, and the rest are in lowercase.
+Use-:
+
+
